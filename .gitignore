@@ -1,0 +1,26 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
+
+# Test-related
+.pytest_cache/
